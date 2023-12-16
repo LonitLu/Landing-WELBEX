@@ -7,7 +7,7 @@
 }
 
 body {
-  background-image: url(/img/fon.jpg);
+  background-image: url(../img/fon.jpg);
   font-family: 'Inter', sans-serif;
   /* font-family: 'Montserrat', sans-serif; */
   height: 100%;
@@ -253,7 +253,7 @@ button {
 @media (max-width: 500px) {
   body {
     padding-top: 0;
-    background-image: url(/img/fon-media.jpg);
+    background-image: url(../img/fon-media.jpg);
   }
 
   .header__logo,
